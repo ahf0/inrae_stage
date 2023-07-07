@@ -19,7 +19,7 @@ EDGE_WEIGHT_SECTION
 1414
 DISPLAY_DATA_SECTION
     1      1.0      1.0
-    2      1.0      2.5
+    2      1.0      2.0
     3      3.0      4.0
     4      6.5      3.0
     5      6.5      1.0
